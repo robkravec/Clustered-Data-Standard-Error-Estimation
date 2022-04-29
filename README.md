@@ -7,7 +7,7 @@ Clustered data is common in real-world settings and of particular interest to th
 ## Documents of interest
 
 - `Project.pdf`: Written report, outlining our research, simulations procedure, case study, discussion, and results
-- `Project.Rmd`: Code used to generate `Project.pdf`
+- `Project.Rmd` and `Scripts/` files: Code used to generate `Project.pdf`
 - `Presentation.pptx`: Slides used to present high-level results
 
 ## Acknowledgements
